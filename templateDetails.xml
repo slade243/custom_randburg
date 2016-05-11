@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.5.1" type="template">
+	<name>custom_randburg</name>
+	<creationDate>2016-05-09</creationDate>
+	<author>Ingo Hotischeck</author>
+	<authorEmail>ingo.hotischeck@live.de</authorEmail>
+	<authorUrl>http://www.example.com</authorUrl>
+	<copyright>Ingo Hotischeck 2016</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0</version>
+	<description>Custom Randburg template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+		<folder>html</folder>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>slider</position>
+		<position>twitter</position>
+		<position>bottom</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+	</positions>
+</extension>
+
+
